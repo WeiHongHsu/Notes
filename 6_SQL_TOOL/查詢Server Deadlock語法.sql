@@ -1,0 +1,1 @@
+SELECT  deadlock_monitor_serial_number,cpu_count/hyperthread_ratio AS sockets FROM sys.dm_os_sys_info
